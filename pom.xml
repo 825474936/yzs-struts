@@ -5,7 +5,7 @@
 	<groupId>yzs.com.common</groupId>
 	<artifactId>yzs-common-parent</artifactId>
 	<version>1.0-SNAPSHOT</version>
-	<relativePath>common/yzs-common-parent</relativePath>
+	<relativePath>../yzs-common-parent</relativePath>
   </parent>
   
   <groupId>yzs.com.struts</groupId>
